@@ -1,0 +1,6 @@
+qwen-tts/.env
+qwen-tts/*.mp3
+qwen-tts/*.wav
+qwen-tts/__pycache__/
+qwen-tts/outputs
+qwen-tts/novel.txt
